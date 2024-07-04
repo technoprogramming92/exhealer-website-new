@@ -7,7 +7,7 @@
   border: 5px solid white;
 }
 .gallery-page {
-  padding: 50px 0 50px;
+  padding: 80px 0 50px;
 }
 
 .gallery-page .gallery_content{
@@ -34,4 +34,24 @@
 
 .insta-feed-section .insta-section-imgs img{
   border: 5px solid white;
+}
+
+.home-header-section{
+  background: none;
+}
+
+.bg-pink{
+  background: var(--e-global-color-light-green);
+}
+
+.bg-white{
+  background: #fff;
+}
+
+.about-section {
+  padding-top: 150px;
+}
+
+.home-gallery-slider {
+  padding: 100px 0 0px;
 }

@@ -998,7 +998,7 @@ a {
 }
 .categories-section .about-us-content .banner-btn a {
   color: var(--e-global-color-accent);
-  background: var(--e-global-color-light-green);
+  /* background: var(--e-global-color-light-green); */
   border-radius: 72px;
   padding: 15px 35px 16px 36px;
   display: inline-block;
@@ -1168,7 +1168,7 @@ a {
 }
 .event-section .about-us-content .banner-btn a {
   color: var(--e-global-color-accent);
-  background:transparent;
+  background:#fff;
   border-radius: 72px;
   padding: 15px 35px 16px 36px;
   display: inline-block;
